@@ -26,7 +26,7 @@ src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logo
   <img align="center" alt="Rafa-GOOGLE CLOUD" height="30" width="40"
 src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
    <img align="right" alt="Rafaela" 
-src="https://i.picasion.com/pic91/d0e04322fbd6bf85ad70309ca6cc3ad8.gif">
+src="https://i.picasion.com/pic91/a63ed4166b0f842dc47a084fb91c5f8f.gif">
 </div>
 
   
