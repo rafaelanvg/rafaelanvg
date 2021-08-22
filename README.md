@@ -1,13 +1,14 @@
 ### Oiii! Eu sou a Rafaela NVG 👋
 
-- 🔭 Atualmente sou estudante de ADS
-- 🌱 Atualmente estou aprendendo HTML/CSS/JavaScript/Java/Git/GitHub/Cloud Computing ...
+- 🔭 Atualmente sou estudante de ADS 
+- 🌱 Atualmente estou aprendendo **HTML/CSS/JavaScript/Java/Git/GitHub/Cloud Computing**
+-  Orgulho de Ser [@CloudGirlSin](https://www.linkedin.com/company/cloudgirlsin/) Mentee e [@SoulCodeAcademy](https://www.linkedin.com/company/soulcodeacademy/) SoulCoder
 - 👯 Estou procurando colaborar com...
 - 🤔 Estou procurando ajuda com...
 - 💬 Pergunte-me sobre...
-- 📫 Como chegar até mim: ...
+
 - 😄 Amo ajudar pessoas
-- ⚡ Uma curiosidade sobre mim: ...
+- ⚡ Uma curiosidade sobre mim: estou escrevendo alguns livros
 
 
  <div>
@@ -17,19 +18,26 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-JAVA" height="30" width="40"
-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-GOOGLE CLOUD" height="30" width="40"
+  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+ 
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+ 
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+  <img align="center" alt="Rafa-JAVA" height="40" width="40"
+src="https:// raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ 
+ 
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-GOOGLE CLOUD" height="40" width="40"
 src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
    <img align="right" alt="Rafaela" 
 src="https://i.picasion.com/pic91/a63ed4166b0f842dc47a084fb91c5f8f.gif">
 </div>
 
 ##
+ 
+ 📫 Como chegar até mim:
  
 <div> 
   <a href="https://linkedin.com/in/rafanvg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -38,3 +46,4 @@ src="https://i.picasion.com/pic91/a63ed4166b0f842dc47a084fb91c5f8f.gif">
   
 <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="rafaelanvg" /> 
 </div>
+ 
