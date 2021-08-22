@@ -1,13 +1,9 @@
 ### Oiii! Eu sou a Rafaela 👋
 
-- 🔭 Atualmente sou estudante de ADS 
-- 🌱 Atualmente estou aprendendo **HTML/CSS/JavaScript/Java/Git/GitHub/Cloud Computing**
+-  🌱 Atualmente sou estudante de ADS e estou aprendendo **HTML/CSS/JavaScript/Java/Git/GitHub/Cloud Computing**
+ 
 -  Orgulho de Ser [@CloudGirlSin](https://www.linkedin.com/company/cloudgirlsin/) Mentee
 -  Orgulho de Ser [@SoulCodeAcademy](https://www.linkedin.com/company/soulcodeacademy/) SoulCoder
-- 👯 Estou procurando colaborar com...
-- 🤔 Estou procurando ajuda com...
-- 💬 Pergunte-me sobre...
-
 - 😄 Amo ajudar pessoas
 - ⚡ Uma curiosidade sobre mim: estou escrevendo alguns livros
 
@@ -18,6 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelanvg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+ 
 Estudando Atualmente:<br>
  
 <div style="display: inline_block"><br>
@@ -34,7 +31,7 @@ src="https://i.picasion.com/pic91/a63ed4166b0f842dc47a084fb91c5f8f.gif">
 </div>
 
 ##
- 
+  
  📫 Como chegar até mim:<br>
  
 <div> 
