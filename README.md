@@ -41,10 +41,3 @@ src="https://i.picasion.com/pic91/a63ed4166b0f842dc47a084fb91c5f8f.gif">
 </div>
  
  ##
- 
-<div> 
-  ![Snake animation](https://github.com/rafaelanvg/rafaelanvg/blob/output/github-contribution-grid-snake.svg)
-  
-<img src="https://komarev.com/ghpvc/?username=rafaelanvgO&color=green" alt="rafaelanvg" /> 
-</div>
- 
