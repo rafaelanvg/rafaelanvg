@@ -25,10 +25,10 @@ src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logo
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-GOOGLE CLOUD" height="30" width="40"
 src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-  <img align="right" alt="Rafa-yoda" src="https://https://picrew.me/image_maker/338224/hi.gif">
+  <img align="right" alt="Rafaela" 
+src="https://i.picasion.com/pic91/d4a46f96b2fdf58b0e0def28a5ab5c57.gif">
 </div>
- https://picrew.me/image_maker/338224
+
   
 ##
  
