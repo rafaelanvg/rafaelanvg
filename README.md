@@ -29,7 +29,6 @@ src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=g
 src="https://i.picasion.com/pic91/a63ed4166b0f842dc47a084fb91c5f8f.gif">
 </div>
 
-  
 ##
  
 <div> 
