@@ -25,8 +25,8 @@ src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logo
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-GOOGLE CLOUD" height="30" width="40"
 src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
- 
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/d4a46f96b2fdf58b0e0def28a5ab5c57.gif" width="300" height="294" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+   <img align="right" alt="Rafaela" 
+src="https://i.picasion.com/pic91/d0e04322fbd6bf85ad70309ca6cc3ad8.gif">
 </div>
 
   
