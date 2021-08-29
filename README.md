@@ -7,7 +7,7 @@
 - 😄 Amo ajudar pessoas
 - ⚡ Uma curiosidade sobre mim: estou escrevendo alguns livros
 
-- # Links : [@linktr.ee](https://linktr.ee/rafaela.nvg/) linktr.ee
+- # Links: [@linktr.ee](https://linktr.ee/rafaela.nvg/) linktr.ee
 ##
 
  <div>
