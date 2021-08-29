@@ -38,6 +38,8 @@ src="https://i.picasion.com/pic91/a63ed4166b0f842dc47a084fb91c5f8f.gif">
  
 <div> 
   <a href="https://linkedin.com/in/rafanvg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+ <a href="https://https://linktr.ee/rafaela.nvg" target="_blank"><img src="https://img.shields.io/badge/-linktr.ee-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
  ##
