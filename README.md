@@ -7,6 +7,7 @@
 - 😄 Amo ajudar pessoas
 - ⚡ Uma curiosidade sobre mim: estou escrevendo alguns livros
 
+- # Links : A beautiful Single Page Application made with React (Alternative to linktr.ee) [@linktr.ee](https://linktr.ee/rafaela.nvg/) linktr.ee
 ##
 
  <div>
