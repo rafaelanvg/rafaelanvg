@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Rafaela 👋
 
--  🌱 Atualmente estou estudando algumas tecnologias como: **HTML/CSS/JavaScript/ReactJs/Java/Python/Git/GitHub/Cloud Computing**
+-  🌱 Atualmente estou estudando algumas tecnologias como: **HTML/CSS/JavaScript/Java/Python/ReactJs/Git/GitHub/Cloud Computing**
  
 -  Orgulho de Ser [@CloudGirlSin](https://www.linkedin.com/company/cloudgirlsin/) Mentee
 -  Orgulho de Ser [@SoulCodeAcademy](https://www.linkedin.com/company/soulcodeacademy/) SoulCoder
