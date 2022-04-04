@@ -2,9 +2,9 @@
 
 -  🌱 Atualmente estou estudando algumas tecnologias como: **HTML/CSS/JavaScript/Java/Python/ReactJs/Git/GitHub/Cloud Computing**
  
--  Orgulho de Ser [@CloudGirlSin](https://www.linkedin.com/company/cloudgirlsin/) Mentee
--  Orgulho de Ser [@SoulCodeAcademy](https://www.linkedin.com/company/soulcodeacademy/) SoulCoder
--  Orgulho de Ser [Embaixadora@Se Candidate, Mulher!](https://www.linkedin.com/company/se-candidate-mulher/) Se Candidate, Mulher!
+-  Orgulho de Ser [CloudGirlSin](https://www.linkedin.com/company/cloudgirlsin/) Mentee
+-  Orgulho de Ser [SoulCodeAcademy](https://www.linkedin.com/company/soulcodeacademy/) SoulCoder
+-  Orgulho de Ser [Embaixadora Se Candidate, Mulher!](https://www.linkedin.com/company/se-candidate-mulher/) Se Candidate, Mulher!
 
 - 😄 Amo ajudar pessoas
 - ⚡ Uma curiosidade sobre mim: estou escrevendo alguns livros
